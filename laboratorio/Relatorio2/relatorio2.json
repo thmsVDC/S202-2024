@@ -1,0 +1,19 @@
+[
+{
+    "professor" : "Jonas",
+    "assunto" : "Bando de Dados II",
+    "alunos": ["Thomas", "Joao Marcos", "Pedro Vilas", "Pedro Vilela"]
+},
+
+{
+    "professor" : "Renan",
+    "assunto" : "Calculo I",
+    "alunos": ["Thomas", "Joao", "Maria", "Marcos"]
+},
+
+{
+    "professor" : "Marcelo",
+    "assunto" : "Paradigmas de Programação",
+    "alunos": ["Thomas", "Joao Marcos", "Jonas", "Pedro"]
+}
+]
